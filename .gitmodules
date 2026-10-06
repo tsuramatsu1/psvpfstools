@@ -1,6 +1,6 @@
 [submodule "psvpfsparser"]
 	path = psvpfsparser
-	url = https://github.com/Vita3K/psvpfsparser.git
+	url = https://github.com/tsuramatsu1/psvpfsparser.git
 [submodule "libzrif"]
 	path = libzrif
 	url = https://github.com/KorewaWatchful/libzrif.git
